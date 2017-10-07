@@ -6,7 +6,7 @@
 
 ## Сборка и запуск
 
-Соберать проект при помощи [утилиты Stack](https://www.haskellstack.org):
+Собрать проект при помощи [утилиты Stack](https://www.haskellstack.org):
 
 ```
 stack setup
